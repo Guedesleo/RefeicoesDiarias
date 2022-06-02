@@ -1,5 +1,5 @@
 defmodule ExMealWeb.MealView do
-  use ExMealWeb, :view
+  use ExmealWeb, :view
 
   alias ExMeal.Meals.Meal
 
